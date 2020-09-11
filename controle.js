@@ -13,6 +13,8 @@ console.log(users[2]);
 users.push("malek");
 users.splice(3, 1);
 console.log(users);
+
+git
 */
 
 var users = ["mona", "hadil", "yassmine", "amine", "maram"];
@@ -23,4 +25,4 @@ for (var user of users) {
 }
 document.write("</ul>");
 
-/* qsfdfdfsdfsf*/
+
